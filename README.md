@@ -83,7 +83,7 @@
 Download pre-trained models: [ResNet-50](https://drive.google.com/file/d/1FTwDMAddcLrWK8Q_yy7E1uaAMYUVvhhn/view?usp=drive_link) and [SAM](https://drive.google.com/file/d/1pYBYPUM8JFQQAJD5kkIVutVGy4DcFgqw/view?usp=drive_link)
 
 Download our trained models: [Chest X-ray](https://drive.google.com/file/d/1pmGwI39Rqxvi2qaxJzp3Hxcetxz2PUKE/view?usp=drive_link), [Deepglobe](https://drive.google.com/file/d/1jZt3kFv996-U-I3KD4K0qEvX3S6qM2My/view?usp=drive_link), 
-[FSS-1000](https://drive.google.com/file/d/1MJJSQoSUNJ4r4OWoUCTgvUj5MGFfORu2/view?usp=drive_link) and [ISIC2018]().
+[FSS-1000](https://drive.google.com/file/d/1MJJSQoSUNJ4r4OWoUCTgvUj5MGFfORu2/view?usp=drive_link) and [ISIC2018](https://drive.google.com/file/d/1yS-W7E78hJLwQXiP43Ot4kFogeei1qHM/view?usp=drive_link).
 
 
 # Test

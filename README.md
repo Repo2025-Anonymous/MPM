@@ -89,7 +89,7 @@ Download our trained models: [Chest X-ray](https://drive.google.com/file/d/1pmGw
 # Test
 Download the weights of pre-trained and our MPM, and put them in the corresponding folder. Then you can run:
 
-    test.py
+    test_lora.py
 
 # Performance and Visualisation
 ![image](figs/results.png) 

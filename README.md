@@ -1,6 +1,6 @@
 # Mutual Prototype Memory Network for Cross-Domain Few-Shot Segmentation
 
-#### This is the official implementation of our paper "Mutual Prototype Memory Network for Cross-Domain Few-Shot Segmentation", which is submitted to ACMMM2025.
+#### This is the official implementation of our paper "Mutual Prototype Memory Network for Cross-Domain Few-Shot Segmentation", which is submitted to AAAI2026.
 ![image](figs/overall.png) 
 
 # Dataset
@@ -87,7 +87,7 @@ Download our trained models: [Chest X-ray](https://drive.google.com/file/d/1pmGw
 
 
 # Test
-Download the weights of pre-trained and our MPMN, and put them in the corresponding folder. Then you can run:
+Download the weights of pre-trained and our MPM, and put them in the corresponding folder. Then you can run:
 
     test.py
 

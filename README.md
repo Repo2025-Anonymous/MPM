@@ -1,6 +1,6 @@
 # Mutual Prototype Memorizing in Cross-Domain Few-Shot Segmentation
 
-#### This is the official implementation of our paper "Mutual Prototype Memorizing in Cross-Domain Few-Shot Segmentation", which is submitted to AAAI2026.
+#### This is the official implementation of our paper "Mutual Prototype Memorizing in Cross-Domain Few-Shot Segmentation", which is submitted to TIP.
 ![image](figs/overall.png) 
 
 # Dataset
